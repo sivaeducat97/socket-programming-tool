@@ -1,3 +1,0 @@
-# No external Python packages required.
-# This project uses Python standard library
-# and Windows built-in security tools.
